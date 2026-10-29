@@ -7,6 +7,7 @@
 | [0068-text-justification](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0197-rising-temperature) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
