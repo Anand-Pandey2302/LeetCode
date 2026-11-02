@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
