@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Binary Search
 |  |
