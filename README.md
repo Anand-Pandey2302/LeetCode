@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -98,8 +99,17 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
