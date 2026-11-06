@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
