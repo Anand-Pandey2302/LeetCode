@@ -14,11 +14,13 @@
 | [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0068-text-justification) |
 | [0187-repeated-dna-sequences](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +40,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,6 +50,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0133-clone-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
