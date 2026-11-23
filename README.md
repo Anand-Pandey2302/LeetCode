@@ -13,6 +13,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
@@ -103,6 +104,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,16 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0134-gas-station) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
