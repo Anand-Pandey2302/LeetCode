@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0068-text-justification) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
@@ -32,6 +33,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0133-clone-graph) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
@@ -103,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
