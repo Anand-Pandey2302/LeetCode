@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0068-text-justification) |
+| [3360-stone-removal-game](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0263-ugly-number](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anand-Pandey2302/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anand-Pandey2302/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Anand-Pandey2302/LeetCode/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
